@@ -1249,3 +1249,8 @@ main {
 
 }
 
+@media screen and (max-width: 768px) {
+  .trending-episodes{
+    display: block !important;
+  }
+}
